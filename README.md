@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a webshop & a blog ✨
-- 💻 I’m currently learning javascript & react ⚙️
+- 💻 I’m open to remote work in javascript & react stacks ⚙️
 - 👯 I’m looking to collaborate on making platforms 🧉
 - 📫 [Reach Me](https://join.slack.com/t/newworkspace-s8a9521/shared_invite/zt-lofmx301-jc~P6pIchR421eTbc8i2aw) 💬
 - [🧑🏾‍🍳 chef by day](https://www.instagram.com/anna_twentytwenty/?hl=en)
