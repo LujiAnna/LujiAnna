@@ -1,7 +1,7 @@
 # Hi, I'm Anna
 I'm a web developer specializing on the front-end.
 - 🔭 Currently working on a webshop & a video-player ✨
-- 💻 Open to remote work in javascript & react stacks ⚙️
+- 💻 Open to remote work in javascript/ES6, nodejs, express & react stacks ⚙️
 - 👯 Looking to collaborate on making platforms 🧉
 - 📋 Sometimes I write on my [blog](https://annaikoki.netlify.app/blog/blog.html)
 - 📫 [Reach Me](https://join.slack.com/t/newworkspace-s8a9521/shared_invite/zt-lofmx301-jc~P6pIchR421eTbc8i2aw) 💬
