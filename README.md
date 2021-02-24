@@ -1,4 +1,4 @@
-# Hi, Am Anna
+# Hi, I'm Anna
 I'm a web developer specializing on the front-end.
 - 🔭 I’m currently working on a webshop & a video-player ✨
 - 💻 I’m open to remote work in javascript & react stacks ⚙️
