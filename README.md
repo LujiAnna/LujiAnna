@@ -1,5 +1,5 @@
 # Hi, I'm Anna
-I'm a web developer specializing on the front-end.
+I'm a web developer specializing on the front-end and JAMstack.
 - 🔭 Currently working on a webshop & a video-player ✨
 - 💻 Open to remote work in javascript/ES6, nodejs, express & react stacks ⚙️
 - 👯 Looking to collaborate on making platforms 🧉
