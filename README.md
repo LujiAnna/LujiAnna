@@ -1,7 +1,7 @@
 # Hi, I'm Anna
 I'm a web developer specializing on the front-end and JAMstack.
 - ⚙️ Currently working on technical interview projects 
-- 💻 Open to remote work in javascript/ES6, nodejs, express & react stacks 
+- 💻 Open to remote work in javascript/ES6, nodejs, express & react
 - 🧉 Looking to collaborate on making platforms 
 - [📫 Reach Me](https://lujianna.github.io/)
 - [🍳 Chef by day](https://www.instagram.com/anna_twentytwenty/?hl=en)
